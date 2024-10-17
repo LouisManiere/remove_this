@@ -1,0 +1,4 @@
+pandas
+pyinstaller
+matplotlib
+PyQt5
